@@ -150,7 +150,12 @@
 
     body, html {
       overflow-y: visible;
+      cursor: default;
     
+    }
+
+    .cursor{
+      display: none;
     }
   
     .container{
